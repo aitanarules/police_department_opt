@@ -1,0 +1,140 @@
+[
+    {
+        "station_name":"3510 S Michigan Ave",
+        "community_area":"DOUGLAS",
+        "longitude":-87.62339535,
+        "latitude":41.83070169
+    },
+    {
+        "station_name":"1160 N Larrabee St",
+        "community_area":"NEAR NORTH SIDE",
+        "longitude":-87.64335214,
+        "latitude":41.90324165
+    },
+    {
+        "station_name":"850 W Addison St",
+        "community_area":"LAKE VIEW",
+        "longitude":-87.65151202,
+        "latitude":41.94740046
+    },
+    {
+        "station_name":"5400 N Lincoln Ave",
+        "community_area":"LINCOLN SQUARE",
+        "longitude":-87.69284451,
+        "latitude":41.97954951
+    },
+    {
+        "station_name":"1900 W Monterey Ave",
+        "community_area":"MORGAN PARK",
+        "longitude":-87.66852039,
+        "latitude":41.69143478
+    },
+    {
+        "station_name":"6464 N Clark St",
+        "community_area":"ROGERS PARK",
+        "longitude":-87.67132429,
+        "latitude":41.99976348
+    },
+    {
+        "station_name":"5555 W Grand Ave",
+        "community_area":"BELMONT CRAGIN",
+        "longitude":-87.76557448,
+        "latitude":41.91860889
+    },
+    {
+        "station_name":"1718 S State St",
+        "community_area":"NEAR SOUTH SIDE",
+        "longitude":-87.62735617,
+        "latitude":41.85837259
+    },
+    {
+        "station_name":"5101 S Wentworth Ave",
+        "community_area":"FULLER PARK",
+        "longitude":-87.63056018,
+        "latitude":41.80181109
+    },
+    {
+        "station_name":"7040 S Cottage Grove Ave",
+        "community_area":"WOODLAWN",
+        "longitude":-87.60574786,
+        "latitude":41.76643089
+    },
+    {
+        "station_name":"2255 E 103rd St",
+        "community_area":"SOUTH DEERING",
+        "longitude":-87.56834912,
+        "latitude":41.70793329
+    },
+    {
+        "station_name":"727 E 111th St",
+        "community_area":"PULLMAN",
+        "longitude":-87.60450587,
+        "latitude":41.69272336
+    },
+    {
+        "station_name":"7808 S Halsted St",
+        "community_area":"AUBURN GRESHAM",
+        "longitude":-87.64422891,
+        "latitude":41.75213684
+    },
+    {
+        "station_name":"1438 W 63rd St",
+        "community_area":"WEST ENGLEWOOD",
+        "longitude":-87.66088702,
+        "latitude":41.77963154
+    },
+    {
+        "station_name":"3420 W 63rd St",
+        "community_area":"CHICAGO LAWN",
+        "longitude":-87.70886382,
+        "latitude":41.77898719
+    },
+    {
+        "station_name":"3120 S Halsted St",
+        "community_area":"BRIDGEPORT",
+        "longitude":-87.64640771,
+        "latitude":41.83739443
+    },
+    {
+        "station_name":"3315 W Ogden Ave",
+        "community_area":"NORTH LAWNDALE",
+        "longitude":-87.70838196,
+        "latitude":41.85668453
+    },
+    {
+        "station_name":"3151 W Harrison St",
+        "community_area":"EAST GARFIELD PARK",
+        "longitude":-87.70548813,
+        "latitude":41.87358229
+    },
+    {
+        "station_name":"1412 S Blue Island Ave\n",
+        "community_area":"NEAR WEST SIDE",
+        "longitude":-87.65697251,
+        "latitude":41.86297662
+    },
+    {
+        "station_name":"2150 N California Ave",
+        "community_area":"LOGAN SQUARE",
+        "longitude":-87.69745182,
+        "latitude":41.92110332
+    },
+    {
+        "station_name":"5701 W Madison St",
+        "community_area":"AUSTIN",
+        "longitude":-87.76819989,
+        "latitude":41.88008346
+    },
+    {
+        "station_name":"5151 N Milwaukee Ave",
+        "community_area":"JEFFERSON PARK",
+        "longitude":-87.76614884,
+        "latitude":41.97409445
+    },
+    {
+        "station_name":"4650 N Pulaski Rd",
+        "community_area":"ALBANY PARK",
+        "longitude":-87.72811456,
+        "latitude":41.96605342
+    }
+]
